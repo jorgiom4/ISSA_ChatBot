@@ -1,0 +1,11 @@
+# Dependencias del proyecto
+# Generar con: pip freeze > requirements.txt
+streamlit
+transformers
+torch # o tensorflow
+peft
+langchain
+psycopg2-binary # o pg8000
+sqlalchemy
+pgvector
+sentence-transformers # Necesario para embeddings del RAG
