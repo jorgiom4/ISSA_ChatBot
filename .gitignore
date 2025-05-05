@@ -1,2 +1,4 @@
 
 .DS_Store
+models/mt5_base/*
+models/xlm_roberta/*

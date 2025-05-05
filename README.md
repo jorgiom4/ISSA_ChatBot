@@ -109,3 +109,11 @@ El desarrollo se está realizando de forma incremental, implementando y validand
 - Integración de un Modelo LLM generativo para el Agente de Respuesta.
 - Orquestación final en `app.py`.
 
+## Ficheros del modelo LLM y tokenizador Huggingface
+Los ficheros necesarios para realizar la inferencia son:
+- config.json
+- model.safetensors
+- tokenizer.json
+- tokenizer_config.json
+- special_tokens_map.json
+
