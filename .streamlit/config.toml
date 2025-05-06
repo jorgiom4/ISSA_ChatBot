@@ -1,0 +1,6 @@
+# ISSA_ChatBot/.streamlit/config.toml
+
+[server]
+# Deshabilita el watcher de archivos para evitar conflictos con librerías como PyTorch.
+# 'none' deshabilita completamente el watcher.
+fileWatcherType = "none"
